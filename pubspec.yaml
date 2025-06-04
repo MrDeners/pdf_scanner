@@ -1,0 +1,43 @@
+name: doc_scanner
+publish_to: 'none'
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  domain:
+    path: ./domain
+  core:
+    path: ./core
+  core_ui:
+    path: ./core_ui
+  data:
+    path: ./data
+  navigation:
+    path: ./navigation
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  app_group_directory: ^2.0.0
+
+flutter_icons:
+  ios: true
+  android: true
+  remove_alpha_ios: true
+  image_path: "core_ui/resources/images/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env

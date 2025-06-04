@@ -1,0 +1,3 @@
+enum OnboardingType {
+  app,
+}

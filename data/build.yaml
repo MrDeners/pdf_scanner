@@ -1,0 +1,10 @@
+targets:
+  $default:
+    builders:
+      injectable_generator:injectable_builder:
+        options:
+          auto_register: true
+          class_name_pattern: "Provider$"
+          file_name_pattern: "_provider$"
+          exclude_private: true
+          exclude_registered: true

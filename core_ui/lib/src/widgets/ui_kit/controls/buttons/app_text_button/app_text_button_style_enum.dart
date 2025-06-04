@@ -1,0 +1,4 @@
+enum AppTextButtonStyle {
+  primary,
+  secondary,
+}

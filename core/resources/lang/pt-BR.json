@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "ok": "OK",
+    "searchHint": "Pesquisar...",
+    "inputHint": "Digite..."
+  },
+  "errors": {
+    "unknown": "Algo deu errado, por favor, tente novamente mais tarde",
+    "subscriptionError": "Falha ao buscar o status da assinatura"
+  },
+  "loading": {
+    "title": "Um momento, por favor, aguarde..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "Scanner de PDF",
+      "description": "Digitalize documentos facilmente ou converta-os para PDF"
+    },
+    "secondPage": {
+      "title": "Avalie-nos",
+      "description": "Ajude-nos a melhorar com seu feedback"
+    }
+  },
+  "paywall": {
+    "title": "Scanner de PDF Definitivo",
+    "description": "Obtenha digitalizações ilimitadas, edição avançada e uma experiência sem anúncios",
+    "action": {
+      "purchase": {
+        "freeTrial": "Iniciar Teste Grátis",
+        "continue": "Continuar"
+      },
+      "restore": {
+        "title": "Restaurar",
+        "failure": {
+          "title": "Falha na Restauração",
+          "description": "Você não tem compras anteriores"
+        }
+      },
+      "privacy": {
+        "title": "Privacidade"
+      },
+      "terms": {
+        "title": "Termos"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Documentos",
+        "emptyTitle": "Nenhum documento encontrado",
+        "emptyDescription": "Toque no botão abaixo para digitalizar ou converter para PDF",
+        "action": {
+          "rename": {
+            "title": "Renomear",
+            "confirm": "Salvar"
+          },
+          "print": {
+            "title": "Imprimir",
+            "confirm": "Salvar"
+          },
+          "share": {
+            "title": "Compartilhar",
+            "confirm": "Salvar"
+          },
+          "delete": {
+            "title": "Excluir",
+            "confirm": "Salvar"
+          },
+          "cancel": {
+            "title": "Cancelar",
+            "confirm": "Salvar"
+          }
+        }
+      },
+      "photos": {
+        "title": "Fotos",
+        "description": "Imprimir fotos da galeria"
+      },
+      "scan": {
+        "title": "Digitalizar",
+        "description": "Digitalizar e imprimir documentos físicos"
+      },
+      "notes": {
+        "title": "Notas",
+        "description": "Digite e imprima qualquer texto"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Imprimir arquivos do email"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} de {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Compartilhar"
+      },
+      "add": {
+        "title": "Adicionar"
+      },
+      "edit": {
+        "title": "Editar"
+      }
+    }
+  }
+}

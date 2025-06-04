@@ -1,0 +1,37 @@
+name: core_ui
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.29.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  core:
+    path: ../core
+  domain:
+    path: ../domain
+
+  flutter_svg: ^2.1.0
+  flex_color_scheme: ^8.2.0
+  cached_network_image: ^3.4.1
+  pro_image_editor: ^9.11.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - resources/icons/
+    - resources/images/
+
+  fonts:
+    - family: SF Pro
+      fonts:
+        - asset: resources/fonts/SF-Pro.ttf
+          weight: 500

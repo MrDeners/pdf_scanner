@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Abbrechen",
+    "continue": "Weiter",
+    "ok": "OK",
+    "searchHint": "Suchen...",
+    "inputHint": "Tippen..."
+  },
+  "errors": {
+    "unknown": "Etwas ist schiefgelaufen, bitte versuche es später erneut",
+    "subscriptionError": "Abrufen des Abonnementstatus fehlgeschlagen"
+  },
+  "loading": {
+    "title": "Einen Moment, bitte warten..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "PDF-Scanner",
+      "description": "Dokumente einfach scannen oder in PDF konvertieren"
+    },
+    "secondPage": {
+      "title": "Bewerte uns",
+      "description": "Hilf uns, uns mit deinem Feedback zu verbessern"
+    }
+  },
+  "paywall": {
+    "title": "Ultimativer PDF-Scanner",
+    "description": "Erhalte unbegrenzte Scans, erweiterte Bearbeitung und ein werbefreies Erlebnis",
+    "action": {
+      "purchase": {
+        "freeTrial": "Kostenlose Testversion starten",
+        "continue": "Weiter"
+      },
+      "restore": {
+        "title": "Wiederherstellen",
+        "failure": {
+          "title": "Wiederherstellung fehlgeschlagen",
+          "description": "Du hast keine früheren Einkäufe"
+        }
+      },
+      "privacy": {
+        "title": "Datenschutz"
+      },
+      "terms": {
+        "title": "Bedingungen"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Dokumente",
+        "emptyTitle": "Keine Dokumente gefunden",
+        "emptyDescription": "Tippe auf die Schaltfläche unten, um zu scannen oder in PDF zu konvertieren",
+        "action": {
+          "rename": {
+            "title": "Umbenennen",
+            "confirm": "Speichern"
+          },
+          "print": {
+            "title": "Drucken",
+            "confirm": "Speichern"
+          },
+          "share": {
+            "title": "Teilen",
+            "confirm": "Speichern"
+          },
+          "delete": {
+            "title": "Löschen",
+            "confirm": "Speichern"
+          },
+          "cancel": {
+            "title": "Abbrechen",
+            "confirm": "Speichern"
+          }
+        }
+      },
+      "photos": {
+        "title": "Fotos",
+        "description": "Fotos aus der Galerie drucken"
+      },
+      "scan": {
+        "title": "Scannen",
+        "description": "Physische Dokumente scannen & drucken"
+      },
+      "notes": {
+        "title": "Notizen",
+        "description": "Beliebigen Text tippen & drucken"
+      },
+      "email": {
+        "title": "E-Mail",
+        "description": "Dateien aus E-Mails drucken"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} von {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Teilen"
+      },
+      "add": {
+        "title": "Hinzufügen"
+      },
+      "edit": {
+        "title": "Bearbeiten"
+      }
+    }
+  }
+}

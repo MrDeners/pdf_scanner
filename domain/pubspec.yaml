@@ -1,0 +1,25 @@
+name: domain
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.29.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core:
+    path: ../core
+
+  json_annotation: ^4.9.0
+  freezed: ^2.5.8
+  equatable: ^2.0.7
+  freezed_annotation: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  json_serializable: ^6.9.5
+  build_runner: ^2.4.15
+  injectable_generator: ^2.7.0

@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "ok": "OK",
+    "searchHint": "Search...",
+    "inputHint": "Type..."
+  },
+  "errors": {
+    "unknown": "Something went wrong, please try again later",
+    "subscriptionError": "Fetching subscription status failed"
+  },
+  "loading": {
+    "title": "One moment, please wait..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "PDF Scanner",
+      "description": "Easily scan documents or convert them to PDF"
+    },
+    "secondPage": {
+      "title": "Rate Us",
+      "description": "Help us improve with your feedback"
+    }
+  },
+  "paywall": {
+    "title": "Ultimate PDF Scanner",
+    "description": "Get unlimited scans, advanced editing, and an ad-free experience",
+    "action": {
+      "purchase": {
+        "freeTrial": "Start Free Trial",
+        "continue": "Continue"
+      },
+      "restore": {
+        "title": "Restore",
+        "failure": {
+          "title": "Restore Failed",
+          "description": "You don't have any previous purchases"
+        }
+      },
+      "privacy": {
+        "title": "Privacy"
+      },
+      "terms": {
+        "title": "Terms"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Documents",
+        "emptyTitle": "No documents found",
+        "emptyDescription": "Tap the baton below to scan or convert to PDF",
+        "action": {
+          "rename": {
+            "title": "Rename",
+            "confirm": "Save"
+          },
+          "print": {
+            "title": "Print",
+            "confirm": "Save"
+          },
+          "share": {
+            "title": "Share",
+            "confirm": "Save"
+          },
+          "delete": {
+            "title": "Delete",
+            "confirm": "Save"
+          },
+          "cancel": {
+            "title": "Cancel",
+            "confirm": "Save"
+          }
+        }
+      },
+      "photos": {
+        "title": "Photos",
+        "description": "Print photos from gallery"
+      },
+      "scan": {
+        "title": "Scan",
+        "description": "Scan & print physical docs"
+      },
+      "notes": {
+        "title": "Notes",
+        "description": "Type & print any text"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Print files from email"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} of {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Share"
+      },
+      "add": {
+        "title": "Add"
+      },
+      "edit": {
+        "title": "Edit"
+      }
+    }
+  }
+}

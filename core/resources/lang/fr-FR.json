@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "ok": "OK",
+    "searchHint": "Rechercher...",
+    "inputHint": "Écrire..."
+  },
+  "errors": {
+    "unknown": "Un problème est survenu, veuillez réessayer plus tard",
+    "subscriptionError": "Échec de la récupération du statut de l'abonnement"
+  },
+  "loading": {
+    "title": "Un instant, veuillez patienter..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "Scanner PDF",
+      "description": "Numérisez facilement des documents ou convertissez-les en PDF"
+    },
+    "secondPage": {
+      "title": "Évaluez-nous",
+      "description": "Aidez-nous à nous améliorer grâce à vos commentaires"
+    }
+  },
+  "paywall": {
+    "title": "Scanner PDF Ultime",
+    "description": "Obtenez des numérisations illimitées, une édition avancée et une expérience sans publicité",
+    "action": {
+      "purchase": {
+        "freeTrial": "Commencer l'Essai Gratuit",
+        "continue": "Continuer"
+      },
+      "restore": {
+        "title": "Restaurer",
+        "failure": {
+          "title": "Échec de la Restauration",
+          "description": "Vous n'avez aucun achat antérieur"
+        }
+      },
+      "privacy": {
+        "title": "Confidentialité"
+      },
+      "terms": {
+        "title": "Conditions"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Documents",
+        "emptyTitle": "Aucun document trouvé",
+        "emptyDescription": "Appuyez sur le bouton ci-dessous pour numériser ou convertir en PDF",
+        "action": {
+          "rename": {
+            "title": "Renommer",
+            "confirm": "Enregistrer"
+          },
+          "print": {
+            "title": "Imprimer",
+            "confirm": "Enregistrer"
+          },
+          "share": {
+            "title": "Partager",
+            "confirm": "Enregistrer"
+          },
+          "delete": {
+            "title": "Supprimer",
+            "confirm": "Enregistrer"
+          },
+          "cancel": {
+            "title": "Annuler",
+            "confirm": "Enregistrer"
+          }
+        }
+      },
+      "photos": {
+        "title": "Photos",
+        "description": "Imprimer des photos de la galerie"
+      },
+      "scan": {
+        "title": "Numériser",
+        "description": "Numériser et imprimer des documents physiques"
+      },
+      "notes": {
+        "title": "Notes",
+        "description": "Tapez et imprimez n'importe quel texte"
+      },
+      "email": {
+        "title": "E-mail",
+        "description": "Imprimer des fichiers depuis un e-mail"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} sur {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Partager"
+      },
+      "add": {
+        "title": "Ajouter"
+      },
+      "edit": {
+        "title": "Modifier"
+      }
+    }
+  }
+}

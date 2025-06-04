@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Annulla",
+    "continue": "Continua",
+    "ok": "OK",
+    "searchHint": "Cerca...",
+    "inputHint": "Digita..."
+  },
+  "errors": {
+    "unknown": "Si è verificato un errore, riprova più tardi",
+    "subscriptionError": "Recupero dello stato dell'abbonamento non riuscito"
+  },
+  "loading": {
+    "title": "Un momento, attendere prego..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "Scanner PDF",
+      "description": "Scansiona facilmente documenti o convertili in PDF"
+    },
+    "secondPage": {
+      "title": "Valutaci",
+      "description": "Aiutaci a migliorare con il tuo feedback"
+    }
+  },
+  "paywall": {
+    "title": "Scanner PDF Definitivo",
+    "description": "Ottieni scansioni illimitate, modifica avanzata e un'esperienza senza pubblicità",
+    "action": {
+      "purchase": {
+        "freeTrial": "Inizia Prova Gratuita",
+        "continue": "Continua"
+      },
+      "restore": {
+        "title": "Ripristina",
+        "failure": {
+          "title": "Ripristino Fallito",
+          "description": "Non hai acquisti precedenti"
+        }
+      },
+      "privacy": {
+        "title": "Privacy"
+      },
+      "terms": {
+        "title": "Termini"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Documenti",
+        "emptyTitle": "Nessun documento trovato",
+        "emptyDescription": "Tocca il pulsante in basso per scansionare o convertire in PDF",
+        "action": {
+          "rename": {
+            "title": "Rinomina",
+            "confirm": "Salva"
+          },
+          "print": {
+            "title": "Stampa",
+            "confirm": "Salva"
+          },
+          "share": {
+            "title": "Condividi",
+            "confirm": "Salva"
+          },
+          "delete": {
+            "title": "Elimina",
+            "confirm": "Salva"
+          },
+          "cancel": {
+            "title": "Annulla",
+            "confirm": "Salva"
+          }
+        }
+      },
+      "photos": {
+        "title": "Foto",
+        "description": "Stampa foto dalla galleria"
+      },
+      "scan": {
+        "title": "Scansiona",
+        "description": "Scansiona e stampa documenti fisici"
+      },
+      "notes": {
+        "title": "Note",
+        "description": "Digita e stampa qualsiasi testo"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Stampa file da email"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} di {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Condividi"
+      },
+      "add": {
+        "title": "Aggiungi"
+      },
+      "edit": {
+        "title": "Modifica"
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+enum AppTextFieldStyle {
+  primary,
+  secondary,
+}

@@ -1,0 +1,110 @@
+{
+  "common": {
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "ok": "OK",
+    "searchHint": "Buscar...",
+    "inputHint": "Escribe..."
+  },
+  "errors": {
+    "unknown": "Algo salió mal, por favor inténtalo de nuevo más tarde",
+    "subscriptionError": "Error al obtener el estado de la suscripción"
+  },
+  "loading": {
+    "title": "Un momento, por favor espera..."
+  },
+  "onboarding": {
+    "firstPage": {
+      "title": "Escáner PDF",
+      "description": "Escanea documentos fácilmente o conviértelos a PDF"
+    },
+    "secondPage": {
+      "title": "Califícanos",
+      "description": "Ayúdanos a mejorar con tus comentarios"
+    }
+  },
+  "paywall": {
+    "title": "Escáner PDF Definitivo",
+    "description": "Obtén escaneos ilimitados, edición avanzada y una experiencia sin anuncios",
+    "action": {
+      "purchase": {
+        "freeTrial": "Iniciar Prueba Gratuita",
+        "continue": "Continuar"
+      },
+      "restore": {
+        "title": "Restaurar",
+        "failure": {
+          "title": "Restauración Fallida",
+          "description": "No tienes compras anteriores"
+        }
+      },
+      "privacy": {
+        "title": "Privacidad"
+      },
+      "terms": {
+        "title": "Términos"
+      }
+    }
+  },
+  "home": {
+    "tiles": {
+      "documents": {
+        "title": "Documentos",
+        "emptyTitle": "No se encontraron documentos",
+        "emptyDescription": "Toca el botón de abajo para escanear o convertir a PDF",
+        "action": {
+          "rename": {
+            "title": "Renombrar",
+            "confirm": "Guardar"
+          },
+          "print": {
+            "title": "Imprimir",
+            "confirm": "Guardar"
+          },
+          "share": {
+            "title": "Compartir",
+            "confirm": "Guardar"
+          },
+          "delete": {
+            "title": "Eliminar",
+            "confirm": "Guardar"
+          },
+          "cancel": {
+            "title": "Cancelar",
+            "confirm": "Guardar"
+          }
+        }
+      },
+      "photos": {
+        "title": "Fotos",
+        "description": "Imprimir fotos de la galería"
+      },
+      "scan": {
+        "title": "Escanear",
+        "description": "Escanear e imprimir documentos físicos"
+      },
+      "notes": {
+        "title": "Notas",
+        "description": "Escribe e imprime cualquier texto"
+      },
+      "email": {
+        "title": "Correo electrónico",
+        "description": "Imprimir archivos del correo electrónico"
+      }
+    }
+  },
+  "preview": {
+    "pagesAmount": "{selectedPageIndex} de {pagesAmount}",
+    "action": {
+      "share": {
+        "title": "Compartir"
+      },
+      "add": {
+        "title": "Añadir"
+      },
+      "edit": {
+        "title": "Editar"
+      }
+    }
+  }
+}
