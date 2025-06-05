@@ -4,7 +4,8 @@
     "continue": "Continuer",
     "ok": "OK",
     "searchHint": "Rechercher...",
-    "inputHint": "Écrire..."
+    "inputHint": "Écrire...",
+    "document": "Document"
   },
   "errors": {
     "unknown": "Un problème est survenu, veuillez réessayer plus tard",

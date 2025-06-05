@@ -164,12 +164,10 @@ class DocPreviewBloc extends Bloc<DocPreviewEvent, DocPreviewState> {
 
       final File savedFile = await FileService.saveFile(replacedFile);
 
-      await replacedFile.delete();
-
       document = state.document.copyWith(file: savedFile);
 
       await _updateDocumentUseCase.execute(document);
-    } catch (_) {
+    } catch (error) {
       _appEventNotifier.notify(
         ShowToast(
           message: LocaleKeys.errors_unknown.tr(),

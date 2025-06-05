@@ -4,7 +4,8 @@
     "continue": "Continua",
     "ok": "OK",
     "searchHint": "Cerca...",
-    "inputHint": "Digita..."
+    "inputHint": "Digita...",
+    "document": "Documento"
   },
   "errors": {
     "unknown": "Si è verificato un errore, riprova più tardi",

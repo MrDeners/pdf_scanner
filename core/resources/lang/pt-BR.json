@@ -4,7 +4,8 @@
     "continue": "Continuar",
     "ok": "OK",
     "searchHint": "Pesquisar...",
-    "inputHint": "Digite..."
+    "inputHint": "Digite...",
+    "document": "Documento"
   },
   "errors": {
     "unknown": "Algo deu errado, por favor, tente novamente mais tarde",

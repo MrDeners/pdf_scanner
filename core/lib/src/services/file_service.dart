@@ -2,6 +2,8 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'dart:ui';
 
+import 'package:core/src/localization/generated/locale_keys.g.dart';
+import 'package:easy_localization/easy_localization.dart';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'package:pdf/widgets.dart' as pw;
@@ -43,7 +45,7 @@ abstract final class FileService {
     }
 
     final Directory dir = await getApplicationDocumentsDirectory();
-    final String outputPath = '${dir.path}/${const Uuid().v4()}.pdf';
+    final String outputPath = '${dir.path}/${LocaleKeys.common_document.tr()}-${const Uuid().v4()}.pdf';
 
     final File outputFile = File(outputPath);
     await outputFile.writeAsBytes(await pdf.save());

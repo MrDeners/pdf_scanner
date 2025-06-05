@@ -4,7 +4,8 @@
     "continue": "Weiter",
     "ok": "OK",
     "searchHint": "Suchen...",
-    "inputHint": "Tippen..."
+    "inputHint": "Tippen...",
+    "document": "Dokument"
   },
   "errors": {
     "unknown": "Etwas ist schiefgelaufen, bitte versuche es später erneut",

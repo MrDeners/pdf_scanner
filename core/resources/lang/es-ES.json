@@ -4,7 +4,8 @@
     "continue": "Continuar",
     "ok": "OK",
     "searchHint": "Buscar...",
-    "inputHint": "Escribe..."
+    "inputHint": "Escribe...",
+    "document": "Documento"
   },
   "errors": {
     "unknown": "Algo salió mal, por favor inténtalo de nuevo más tarde",
